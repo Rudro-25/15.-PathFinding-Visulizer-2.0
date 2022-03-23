@@ -1,2 +1,5 @@
-# 15.-PathFinding-Visulizer-2.0
- A Path Finder Visulizer.
+<h2>Pathfinding-Visualiser-Project </h2>
+
+This is a Project which will visualize different PathFinding Algorithms. 
+
+[DEMO] hht
